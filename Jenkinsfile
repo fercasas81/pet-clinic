@@ -76,7 +76,5 @@ pipeline {
                 sh "./ui-tests.sh"
             }
         }
-
-
     }
 }
